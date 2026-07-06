@@ -29,7 +29,9 @@ Android Development • API Integration • Web Development • Frontend & Backe
 ---
 
 ### 📊 GitHub Stats:
-[![Sagnic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagnic05&show_icons=true&theme=radical&v=1)](https://github.com/sagnic05)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sagnic05&show_icons=true&theme=radical" alt="Sagnic's GitHub Stats" />
+</p>
 
 ### 🐍 My Snake is Hungry 🥲
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg)

@@ -15,28 +15,33 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Talking about Personal Stuffs:
 
-- 🔭 I'm a Computer Science Engineering Student and a passionate Android Developer
+- 🔭 I'm a Computer Science Engineering Student and a passionate Android & Web Developer
 - 🎓 CSE 27'
-- 🛡️ I recently completed a Cybersecurity Internship with Wipro.
-- 👯 I'm looking to collaborate on Android applications and backend systems.
+- 👯 I'm looking to collaborate on Android applications and full-stack web projects.
 - 🌱 I'm currently advancing my knowledge in Spring Boot, competitive programming, and preparing for GATE.
 
 ### 💻 Technologia:
 `HTML` | `CSS` | `JavaScript` | `Kotlin` | `Spring Boot` | `Jetpack Compose` | `Retrofit` | `Hilt` | `C` | `Java` | `Android Studio` | `GitHub` | `Git` 
 
 ### 💭 Ask me About:
-Android Development • API Integration • Frontend & Backend Development
+Android Development • API Integration • Web Development • Frontend & Backend Architecture
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagnic05&show_icons=true&theme=radical" alt="Sagnic's GitHub Stats" />
+  <a href="https://github.com/sagnic05">
+    <img src="https://github-readme-stats.vercel.app/api?username=sagnic05&show_icons=true&theme=radical" alt="Sagnic's GitHub Stats" />
+  </a>
 </p>
 
 ### 🐍 My Snake is Hungry 🥲
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>

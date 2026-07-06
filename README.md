@@ -17,33 +17,27 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
 
 - 🔭 I'm a Computer Science Engineering Student and a passionate Android Developer
 - 🎓 CSE 27'
-- 💻 I specialize in Full-Stack development and currently building **HoppinGo**, an app dedicated to seamless event location navigation across Kolkata.
-- 🎮 I actively explore game design and recently launched **Codecaster: Perfect Lock**, an educational C-programming arcade game.
 - 🛡️ I recently completed a Cybersecurity Internship with Wipro.
 - 👯 I'm looking to collaborate on Android applications and backend systems.
 - 🌱 I'm currently advancing my knowledge in Spring Boot, competitive programming, and preparing for GATE.
 
 ### 💻 Technologia:
-`Kotlin` | `Spring Boot` | `Jetpack Compose` | `Retrofit` | `Hilt` | `C` | `Java` | `Android Studio` | `GitHub` | `Git` 
+`HTML` | `CSS` | `JavaScript` | `Kotlin` | `Spring Boot` | `Jetpack Compose` | `Retrofit` | `Hilt` | `C` | `Java` | `Android Studio` | `GitHub` | `Git` 
 
 ### 💭 Ask me About:
-Android Development • API Integration • Game Mechanics • Managing mega-structure builds
+Android Development • API Integration • Frontend & Backend Development
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Sagnic's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagnic05&show_icons=true&theme=radical" alt="Sagnic's GitHub Stats" />
 </p>
 
 ### 🐍 My Snake is Hungry 🥲
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-### 🔝 Top Contributed Repos:
-- **HoppinGo**: Android app built with Kotlin, Compose, and Hilt for event navigation. 
-- **Codecaster: Perfect Lock**: A procedurally generated educational game to master C programming concepts.
 
 <br>
 

@@ -29,20 +29,10 @@ Android Development • API Integration • Web Development • Frontend & Backe
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <a href="https://github.com/sagnic05">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagnic05&show_icons=true&theme=radical" alt="Sagnic's GitHub Stats" />
-  </a>
-</p>
+[![Sagnic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagnic05&show_icons=true&theme=radical)](https://github.com/sagnic05)
 
 ### 🐍 My Snake is Hungry 🥲
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/sagnic05/sagnic05/output/github-contribution-grid-snake.svg)
 
 <br>
 

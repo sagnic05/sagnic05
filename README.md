@@ -89,9 +89,6 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
     <img src="https://img.shields.io/badge/Explore_My_Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Button" />
   </a>
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115822265-9a8cd580-a40c-11eb-8032-eb0a46b9ecf5.gif" width="250" alt="Music Visualizer">
-</p>
 
 <br>
 

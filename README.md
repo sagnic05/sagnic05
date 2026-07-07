@@ -90,7 +90,7 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
   </a>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284157-5b65103a-c603-4c55-8ec0-21a41a4a4b27.gif" width="250" alt="Music Visualizer">
+  <img src="https://user-images.githubusercontent.com/73097560/115822265-9a8cd580-a40c-11eb-8032-eb0a46b9ecf5.gif" width="250" alt="Music Visualizer">
 </p>
 
 <br>

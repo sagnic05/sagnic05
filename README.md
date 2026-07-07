@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Massive Cyberpunk Header">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
@@ -12,23 +16,16 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
 </p>
 
 <p align="center">
-  <a href="https://github.com/sagnic05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+HoppinGo+for+Kolkata;Passionate+about+Android+and+Web;Preparing+for+GATE+2027;Always+Learning+and+Hustling!" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Talking about Personal Stuffs:
 
-- 🔭 I'm a Computer Science Engineering Student and a passionate Android & Web Developer
-- 🎓 CSE 27'
+- 🔭 I'm a Computer Science Engineering Student (Class of '27)
 - 📍 Based in Berhampore, Murshidabad.
-- 💻 I specialize in Full-Stack development and currently building **HoppinGo**, an app dedicated to seamless event location navigation across Kolkata.
-- 🌱 I'm currently deep-diving into **Spring Boot**, competitive programming, and **GATE** preparation.
-- 👯 I'm looking to collaborate on Android applications and web projects.
+- 📱 I specialize in native Android development. Currently building **HoppinGo**, a dedicated event location navigation app (strictly for events, not food hopping!). I am focused on streamlining the architecture by implementing navigation directly within the main activity file using Kotlin and Jetpack Compose.
+- 🌱 I'm currently deep-diving into **Spring Boot**, competitive programming, and tracking my **GATE** preparation metrics.
+- 👯 I'm looking to collaborate on robust Android applications and full-stack web projects.
 - ⚡ **Beyond Coding:** When I step away from the keyboard, I am usually engineering massive mega-structures in Minecraft!
 
 <br>
@@ -84,8 +81,16 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
 
 <p align="center">
   <a href="https://open.spotify.com/user/317uus4gh5oy7pa7yps3dww3jmr4?si=d88172aa3e8e48fa" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&label=My%20Playlists&labelColor=121212" width="250" alt="Unbreakable Spotify Banner" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="150" alt="Spotify Logo" />
   </a>
+</p>
+<p align="center">
+  <a href="https://open.spotify.com/user/317uus4gh5oy7pa7yps3dww3jmr4?si=d88172aa3e8e48fa" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_My_Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Button" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284157-5b65103a-c603-4c55-8ec0-21a41a4a4b27.gif" width="250" alt="Music Visualizer">
 </p>
 
 <br>
@@ -95,6 +100,9 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="80%" alt="Cinematic Coding Motivation">
 </p>
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> — **Martin Fowler**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -112,5 +120,5 @@ A budding Full-Stack & Android Developer and Tech Enthusiast, who is obsessed wi
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/AWnN36b6LkwAAAAj/chill-anime.gif" width="250" alt="Footer GIF">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" alt="Mobile Friendly Rocket Footer">
 </p>
